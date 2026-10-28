@@ -7,8 +7,8 @@ Interactive Power BI dashboard analyzing e-commerce sales performance and custom
 This project provides an interactive Power BI dashboard analyzing over 30K+ e-commerce transactions. It tracks sales performance, order trends, product-level profit margins, and customer analytics to support data-driven business decisions.
 
  🖼 Dashboard Preview
-![Dashboard Screenshot]()
-
+![Dashboard Screenshot](Screenshot 2026-10-23 183033.png)
+![Dashboard Screenshot](Screenshot 2026-10-23 183044.png)
  🔑 Key Insights & Analytics
 - **Sales Trends:** Identified peak purchasing periods and monthly revenue fluctuations.
 - **Product Performance:** Segmented top-performing product categories by total sales and profit margins.
