@@ -8,6 +8,7 @@ This project provides an interactive Power BI dashboard analyzing over 30K+ e-co
 
  🖼 Dashboard Preview
 ![Dashboard Screenshot](Screenshot 2026-10-23 183033.png)
+
 ![Dashboard Screenshot](Screenshot 2026-10-23 183044.png)
  🔑 Key Insights & Analytics
 - **Sales Trends:** Identified peak purchasing periods and monthly revenue fluctuations.
